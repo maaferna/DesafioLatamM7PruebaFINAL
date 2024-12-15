@@ -16,6 +16,19 @@ const router = createRouter({
 });
 
 describe('Vue Router', () => {
+  beforeAll(() => {
+    jest.spyOn(console, 'warn').mockImplementation((message) => {
+      if (message.includes('[Vue Router warn]')) {
+        return;
+      }
+      console.warn(message); 
+    });
+  });
+
+  afterAll(() => {
+    console.warn.mockRestore(); 
+  });
+
   it('renders the Home component through the route', async () => {
     router.push('/');
     await router.isReady();

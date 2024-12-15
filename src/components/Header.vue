@@ -36,6 +36,11 @@
             <li class="nav-item">
               <router-link to="/contact" class="nav-link">Contacto</router-link>
             </li>
+
+            <!-- Ruta Parent Child comunicacion -->    
+            <li class="nav-item">
+              <router-link to="/comunicacion" class="nav-link">ParentChildCommunication</router-link>
+            </li>
           </ul>
         </div>
       </div>
