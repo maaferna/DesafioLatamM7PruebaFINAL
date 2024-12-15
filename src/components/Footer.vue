@@ -6,7 +6,7 @@
           <div class="col-12 col-md-6">
             <h5>
               <img
-              src="../../public/assets/images/icon-phone.jpg"
+              src="../../public/images/icon-phone.jpg"
                 alt="Ícono dirección"
                 width="20"
                 height="20"
@@ -20,7 +20,7 @@
             <hr />
             <h5>
               <img
-              src="../../public/assets/images/icon-phone.jpg"
+              src="../../public/images/icon-phone.jpg"
                 alt="Ícono teléfono"
                 width="20"
                 height="20"
@@ -37,7 +37,7 @@
           <div class="col-12 col-md-4">
             <h5>
               <img
-              src="../../public/assets/images/icon-phone.jpg"
+              src="../../public/images/icon-phone.jpg"
               alt="Ícono dirección"
                 width="20"
                 height="20"
@@ -51,7 +51,7 @@
             <hr />
             <h5>
               <img
-                src="../../public/assets/images/icon-phone.jpg"
+                src="../../public/images/icon-phone.jpg"
                 alt="Ícono teléfono"
                 width="20"
                 height="20"
